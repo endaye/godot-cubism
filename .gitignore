@@ -2,3 +2,6 @@
 
 /third-party/Core
 /third-party/Samples
+
+# macOS
+.DS_Store
